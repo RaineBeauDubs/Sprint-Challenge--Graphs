@@ -89,5 +89,3 @@ class World:
         f.close()
         print(str)
         print("#####")
-
-
